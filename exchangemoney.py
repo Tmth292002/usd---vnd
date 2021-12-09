@@ -8,3 +8,5 @@ print("Tiền VND quy đổi: " + str(Exchangerate*usd))
 dollar = float(input('Nhap vao so tien can chuyen doi: '))
 vnd = dollar*22930.00
 print("Gia tien khi chuyen doi la: " + str(vnd))
+
+print("Hello cac ban")
